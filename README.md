@@ -22,4 +22,7 @@ This project provides an **accessible training tool for FTC robotics drivers**, 
 1. Clone or download this repository:  
    ```bash
    git clone https://github.com/codekidwizard/FTC-simulation
-   ⚠️ Note: The simulation requires a **gamepad/controller** to play.
+2.Open index.html in a modern browser
+3.Use a gamepad/controller to drive the robot — keyboard is not supported
+4.Navigate the field and practice cycles or movement strategies
+⚠️ Note: The simulation requires a **gamepad/controller** to play.
